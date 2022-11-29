@@ -1,4 +1,4 @@
-# OpenGymAI: Reinforcement Learning & Deep Neural Networks Applied on Classic Atari Game, Ms. Pacman
+# OpenAI Gym: Reinforcement Learning & Deep Neural Networks Applied on Classic Atari Game, Ms. Pacman
 
 A local environment was set up for this project and OpenAI Gym's library was imported in order to use of its functions (import gym) related to classic atari games (https://openai.com/blog/gym-retro/).
 
